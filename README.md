@@ -1,6 +1,6 @@
 # Textifyer
 
-**Textifyer** is a powerful npm package for analyzing text. It provides functionalities for character counts (with and without spaces), word count, sentence count, paragraph count, space count, and reading time estimation. Perfect for efficient text analysis and management.
+**Textifyer** is a powerful package for analyzing text. It provides functionalities for character counts (with and without spaces), word count, sentence count, paragraph count, space count, and reading time estimation. Perfect for efficient text analysis and management.
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ Installation is done using the
 
 To install `textifyer`, use npm:
 ```console
-$ npm install textifyer
+npm install textifyer
 ```
 
 

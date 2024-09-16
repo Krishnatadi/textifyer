@@ -1,23 +1,29 @@
 {
     "name": "textifyer",
-    "version": "1.0.0",
-    "description": "Textifyer provides character counts (with and without spaces), word count, sentence count, paragraph count, space count, and reading time estimation for efficient text analysis.",
+    "version": "1.0.2",
+    "description": "Textifyer is a powerful package for analyzing text. It provides functionalities for character counts (with/without spaces), word, sentence, and paragraph counts, space count, reading time estimation, readability score, keyword density, lexical diversity, and syllable counting.",
     "main": "textifyer.js",
     "type": "module",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
-      "Text analysis tool",
-      "Character count",
-      "Word count",
-      "Sentence count",
-      "Paragraph count",
-      "Space count",
-      "Reading time estimator",
-      "Text metrics",
-      "Writing analyzer",
-      "Text length calculator"
+        "Text analysis",
+        "Character count",
+        "Word count",
+        "Sentence count",
+        "Paragraph count",
+        "Space count",
+        "Reading time",
+        "Readability score",
+        "Keyword density",
+        "Lexical diversity",
+        "Syllable count",
+        "Text metrics",
+        "Writing tools",
+        "Text evaluation",
+        "Text statistics",
+        "Textifyer"
     ],
     "author": "krishna tadi",
     "license": "ISC"

@@ -1,0 +1,25 @@
+{
+    "name": "textifyer",
+    "version": "1.0.0",
+    "description": "Textifyer provides character counts (with and without spaces), word count, sentence count, paragraph count, space count, and reading time estimation for efficient text analysis.",
+    "main": "textifyer.js",
+    "type": "module",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "Text analysis tool",
+      "Character count",
+      "Word count",
+      "Sentence count",
+      "Paragraph count",
+      "Space count",
+      "Reading time estimator",
+      "Text metrics",
+      "Writing analyzer",
+      "Text length calculator"
+    ],
+    "author": "krishna tadi",
+    "license": "ISC"
+  }
+  
